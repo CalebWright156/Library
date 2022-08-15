@@ -1,1 +1,1 @@
-# Library
+Library app built with Bootstrap and Typescript
